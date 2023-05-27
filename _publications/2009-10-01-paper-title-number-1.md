@@ -9,6 +9,6 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://zhaoqy1996.github.io/files/HSMA.pdf)
 
 Recommended citation: Zhao, Q., Liang, J. and Xu, Z., 2018. "Harmonic surface mapping algorithm for fast electrostatic sums". <i>The Journal of Chemical Physics</i>, 149(8), p.084111.
