@@ -1,7 +1,7 @@
 ---
 title: "Harmonic surface mapping algorithm for fast electrostatic sums"
 collection: publications
-permalink: /publication/HSMA
+permalink: /publication/FASTELEC
 excerpt: 'This is a project thaat I particpated in as an undergraduate research assistant in Prof. Zhenli Xu's lab. In this work we propose a harmonic surface mapping algorithm (HSMA) for electrostatic pairwise sums of an infinite number of image charges.'
 date: 2018-10-01
 paperurl: 'http://zhaoqy1996.github.io/files/HSMA.pdf'
