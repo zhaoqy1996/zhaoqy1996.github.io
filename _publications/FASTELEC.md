@@ -2,13 +2,12 @@
 title: "Fast Method for Evaluating Green's Function in Irregular Domains with Application to Charge Interaction in a Nanopore"
 collection: publications
 permalink: /publication/FASTELEC
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'In this work we develop a fast meshless algorithm for electrostatic interaction in an irregular domain with given potential boundary conditions.'
 date: 2018-10-01
-paperurl: 'http://zhaoqy1996.github.io/files/FAST_ELEC.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'Communications in Computational Physics'
+paperurl: 'http://10.4208/cicp.2018.hh80.07'
+citation: 'Zhao, Q., Liu, P. and Xu, Z., 2018. A Fast Method for Evaluating Green's Function in Irregular Domains with Application to Charge Interaction in a Nanopore. <i>Commun. Comput. Phys.</i>, 24, pp.1214-1258.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This is a project thaat I particpated in as an undergraduate research assistant in Prof. Zhenli Xu's lab. In this work we develop a fast meshless algorithm for electrostatic interaction in an irregular domain with given potential boundary conditions, which is of importance in many applications such as electrochemical energy and electric structure calculations.
 
 [Download paper here](http://zhaoqy1996.github.io/files/FAST_ELEC.pdf)
-
-Recommended citation: Zhao, Q., Liang, J. and Xu, Z., 2018. "Harmonic surface mapping algorithm for fast electrostatic sums". <i>The Journal of Chemical Physics</i>, 149(8), p.084111.
