@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/HSMA
 excerpt: 'In this work we propose a harmonic surface mapping algorithm (HSMA) for electrostatic pairwise sums of an infinite number of image charges.'
 date: 2018-10-01
+venue: 'The Journal of Chemical Physics'
 paperurl: 'https://doi.org/10.1063/1.5044438'
 citation: 'Zhao, Q., Liang, J. and Xu, Z., 2018. "Harmonic surface mapping algorithm for fast electrostatic sums". <i>The Journal of Chemical Physics</i>, 149(8), p.084111.'
 ---
