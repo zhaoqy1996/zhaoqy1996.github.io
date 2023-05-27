@@ -2,7 +2,7 @@
 title: "Fast Method for Evaluating Green's Function in Irregular Domains with Application to Charge Interaction in a Nanopore"
 collection: publications
 permalink: /publication/FASTELEC
-excerpt: 'In this work we develop a fast meshless algorithm for electrostatic interaction in an irregular domain with given potential boundary conditions.'
+excerpt: 'A fast meshless algorithm for electrostatic interaction in an irregular domain was developed.'
 date: 2018-10-01
 venue: 'Communications in Computational Physics'
 paperurl: 'http://10.4208/cicp.2018.hh80.07'
