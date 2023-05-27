@@ -1,7 +1,7 @@
 ---
-title: "Fast Method for Evaluating Green's Function in Irregular Domains with Application to Charge Interaction in a Nanopore"
+title: "Harmonic surface mapping algorithm for fast electrostatic sums"
 collection: publications
-permalink: /publication/FASTELEC
+permalink: /publication/HSMA
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018-10-01
 paperurl: 'http://zhaoqy1996.github.io/files/HSMA.pdf'
